@@ -4,7 +4,7 @@ This guide will explain how to deploy a web app on an Nginx web server hosted on
 
 Pre-requisites:
 
-- Understand how to create and run an Nginx web server using Vagrant: [tech230-vagrant-intro](https://github.com/bradley-woods/tech230-vagrant-intro)
+- Understand how to create and run an Nginx web server using [Vagrant](https://github.com/bradley-woods/vagrant-virtual-machine)
 - Have your application to be deployed in a folder called 'app' in the same directory as your 'Vagrantfile':
 
     <img src="images/app-folder.png" alt="app-folder" width="200px">
